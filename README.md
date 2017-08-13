@@ -9,6 +9,9 @@ The desktop-based version is made to run on any machine.
 The TV-based version is a "slimmed down" version of the desktop-based version. It requires no user input aside from starting the "script."
 
 The point of the application is to login, load, and display information on two websites. This uses several external components:
-  -Mozilla Firefox
-  -TileTabs Firefox Extension
-  -Selenium Webdriver
+
+	-Mozilla Firefox
+	
+	-TileTabs Firefox Extension
+
+	-Selenium Webdriver
